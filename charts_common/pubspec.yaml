@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   collection: ^1.17.1
-  intl: ^0.18.1
+  intl: ^0.17.0
   logging: ^1.1.1
   meta: ^1.9.1
   vector_math: ^2.1.4
