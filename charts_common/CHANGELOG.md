@@ -1,3 +1,6 @@
+# 0.13.0
+* update flutter to 3.10.0
+
 # 0.12.0
 * Expose `NumericScale`, `LinearScale` and `ScaleSpec`
 * Add functions to draw horizontal or vertical links.
